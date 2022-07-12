@@ -1,6 +1,6 @@
 {
   "name": "svelte-use-click-outside",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Zero dependency Svelte's action to handle click outside event",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -12,7 +12,7 @@
   "files": [
     "/dist"
   ],
-  "repository": "https://github.com/Th1nkK1D/svelte-use-click-outside.git",
+  "repository": "https://github.com/FluffyDiscord/svelte-use-click-outside.git",
   "author": "Th1nkK1D <witheep@gmail.com>",
   "license": "MIT",
   "devDependencies": {
